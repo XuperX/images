@@ -1,0 +1,125 @@
+# TBLASTN 2.7.1+
+# Query: chs_Psoj1 Phytophthora sojae
+# Database: Abyss_k30
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+chs_Psoj1	7586397	92.696	575	42	0	17	591	1727	3	0.0	1060
+chs_Psoj1	7608936	90.847	295	27	0	619	913	1039	155	6.41e-162	479
+chs_Psoj1	1768855	96.429	28	1	0	600	627	86	3	3.92e-11	60.5
+chs_Psoj1	1768852	96.429	28	1	0	600	627	86	3	3.92e-11	60.5
+chs_Psoj1	6822755	96.154	26	1	0	583	608	1	78	1.28e-08	53.5
+chs_Psoj1	6752602	96.154	26	1	0	583	608	80	3	1.28e-08	53.5
+chs_Psoj1	7607738	34.328	67	39	2	35	97	461	658	0.25	37.0
+chs_Psoj1	4577497	57.692	26	10	1	499	524	103	29	0.58	32.0
+chs_Psoj1	6611926	39.130	46	26	1	807	850	268	131	6.9	33.1
+# TBLASTN 2.7.1+
+# Query: chs_Psoj2 Phytophthora sojae
+# Database: Abyss_k30
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+chs_Psoj2	7586397	44.196	491	243	9	94	568	1430	3	8.18e-132	414
+chs_Psoj2	7608936	29.075	227	144	6	595	819	1000	365	1.78e-19	93.6
+chs_Psoj2	2476612	40.845	71	42	0	72	142	1302	1090	3.97e-06	53.1
+chs_Psoj2	7585295	39.623	53	22	2	459	501	642	800	0.39	37.0
+chs_Psoj2	1658361	52.174	23	11	0	143	165	6	74	3.0	29.6
+chs_Psoj2	655179	30.000	40	28	0	152	191	22	141	4.2	30.0
+chs_Psoj2	4255047	56.000	25	11	0	531	555	5	79	8.0	28.9
+chs_Psoj2	7576808	41.463	41	23	1	147	186	1950	2072	9.7	32.7
+# TBLASTN 2.7.1+
+# Query: chs_Pram1 Phytophthora ramorum
+# Database: Abyss_k30
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+chs_Pram1	7586397	93.728	574	36	0	18	591	1724	3	0.0	1115
+chs_Pram1	7608936	90.847	295	27	0	619	913	1039	155	2.98e-166	490
+chs_Pram1	1768855	85.714	28	4	0	600	627	86	3	1.48e-09	56.2
+chs_Pram1	1768852	85.714	28	4	0	600	627	86	3	1.48e-09	56.2
+chs_Pram1	6822755	96.154	26	1	0	583	608	1	78	1.05e-08	53.9
+chs_Pram1	6752602	96.154	26	1	0	583	608	80	3	1.05e-08	53.9
+chs_Pram1	4577497	57.692	26	10	1	499	524	103	29	0.59	32.0
+chs_Pram1	7607738	32.836	67	40	2	35	97	461	658	3.8	33.1
+chs_Pram1	3545007	29.577	71	46	2	19	86	63	272	8.5	31.6
+chs_Pram1	7609549	27.500	80	51	2	39	112	463	227	9.6	31.6
+# TBLASTN 2.7.1+
+# Query: chs_Pram2 Phytophthora ramorum
+# Database: Abyss_k30
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+chs_Pram2	7586397	43.564	505	250	10	115	603	1502	45	6.89e-130	410
+chs_Pram2	7608936	31.163	215	131	6	656	868	964	365	5.55e-20	95.1
+chs_Pram2	2476612	39.437	71	43	0	121	191	1302	1090	5.62e-06	52.8
+chs_Pram2	7585295	50.000	30	15	0	506	535	636	725	0.92	35.8
+chs_Pram2	7576808	43.902	41	22	1	196	235	1950	2072	1.0	35.8
+chs_Pram2	1658361	52.174	23	11	0	192	214	6	74	3.5	29.6
+# TBLASTN 2.7.1+
+# Query: chs_Pinf Phytophthora infestans
+# Database: Abyss_k30
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+chs_Pinf	7586397	99.831	591	1	0	1	591	1775	3	0.0	1205
+chs_Pinf	7608936	99.661	295	1	0	619	913	1039	155	2.31e-179	523
+chs_Pinf	1768855	100.000	28	0	0	600	627	86	3	9.43e-12	62.4
+chs_Pinf	1768852	100.000	28	0	0	600	627	86	3	9.43e-12	62.4
+chs_Pinf	6822755	100.000	26	0	0	583	608	1	78	1.20e-09	56.2
+chs_Pinf	6752602	100.000	26	0	0	583	608	80	3	1.20e-09	56.2
+chs_Pinf	2658149	44.444	27	15	0	5	31	7	87	5.1	29.6
+# TBLASTN 2.7.1+
+# Query: chs_Spar1 Saprolegnia parasitica
+# Database: Abyss_k30
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+chs_Spar1	7586397	54.527	497	202	6	103	576	1499	12	0.0	557
+chs_Spar1	7608936	44.397	232	124	2	601	828	1039	347	1.77e-56	200
+chs_Spar1	1768855	66.667	24	8	0	582	605	86	15	5.93e-04	40.4
+chs_Spar1	1768852	66.667	24	8	0	582	605	86	15	5.93e-04	40.4
+chs_Spar1	6822755	68.421	19	6	0	572	590	22	78	0.15	33.5
+chs_Spar1	6752602	68.421	19	6	0	572	590	59	3	0.15	33.5
+chs_Spar1	4577497	57.692	26	10	1	489	514	103	29	2.6	30.4
+chs_Spar1	7600512	24.419	86	63	1	490	573	414	157	7.0	32.3
+# TBLASTN 2.7.1+
+# Query: chs_Spar2 Saprolegnia parasitica
+# Database: Abyss_k30
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+chs_Spar2	7586397	47.368	475	223	7	162	622	1430	45	3.14e-139	435
+chs_Spar2	7608936	30.043	233	140	6	663	892	1000	362	3.31e-18	89.7
+chs_Spar2	2476612	40.566	106	53	4	122	219	1371	1060	3.88e-08	59.7
+chs_Spar2	1947113	51.724	29	14	0	841	869	113	27	1.3	31.6
+chs_Spar2	5338067	47.826	23	12	0	538	560	20	88	3.5	29.6
+chs_Spar2	6548394	55.000	20	9	0	603	622	83	24	4.9	30.4
+# TBLASTN 2.7.1+
+# Query: chs_Spar3 Saprolegnia parasitica
+# Database: Abyss_k30
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+chs_Spar3	7586397	48.409	440	204	8	91	515	1298	3	7.51e-126	396
+chs_Spar3	7608936	32.192	146	82	5	550	693	976	584	6.70e-11	67.4
+# TBLASTN 2.7.1+
+# Query: chs_Spar4 Saprolegnia parasitica
+# Database: Abyss_k30
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+chs_Spar4	7586397	43.623	541	279	4	4	530	1589	3	3.24e-152	465
+chs_Spar4	7608936	37.209	215	129	2	567	778	1012	377	1.61e-26	114
+chs_Spar4	4757790	39.024	41	23	2	89	128	124	5	1.7	32.0
+chs_Spar4	3429453	64.706	17	6	0	153	169	3	53	3.7	29.6
+chs_Spar4	2180323	41.379	29	17	0	92	120	104	18	7.3	29.3
+# TBLASTN 2.7.1+
+# Query: chs_Spar5 Saprolegnia parasitica
+# Database: Abyss_k30
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+chs_Spar5	7586397	44.123	519	263	5	28	534	1523	12	3.59e-136	424
+chs_Spar5	7608936	37.109	256	138	4	571	815	1021	290	6.85e-34	135
+chs_Spar5	7582930	29.762	84	48	1	363	446	361	143	0.85	34.3
+# TBLASTN 2.7.1+
+# Query: chs_Spar6 Saprolegnia parasitica
+# Database: Abyss_k30
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+chs_Spar6	7586397	50.881	511	231	4	161	663	1499	3	1.58e-172	522
+chs_Spar6	7608936	33.061	245	141	4	691	933	1039	368	1.04e-30	126
+chs_Spar6	2476612	24.615	65	49	0	164	228	1296	1102	0.052	40.0
+chs_Spar6	6822755	48.000	25	13	0	655	679	1	75	2.7	30.0
+chs_Spar6	6752602	48.000	25	13	0	655	679	80	6	2.7	30.0
+# BLAST processed 11 queries

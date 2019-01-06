@@ -1,0 +1,100 @@
+
+
+Building a new DB, current time: 01/06/2019 15:36:34
+New DB name:   /domus/h1/fuqixu/assemblyProj/blast/infestans/infestans
+New DB title:  infestans.fan
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 4921 sequences in 3.22574 seconds.
+# TBLASTN 2.7.1+
+# Query: chs_Psoj1 Phytophthora sojae
+# Database: infestans
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+chs_Psoj1	NW_003303757.1	92.308	897	69	0	17	913	5712028	5714718	0.0	1595
+chs_Psoj1	NW_003303733.1	89.062	64	7	0	647	710	111358	111167	4.78e-26	119
+chs_Psoj1	NW_003303738.1	35.821	67	38	2	35	97	735190	735387	2.6	34.7
+# TBLASTN 2.7.1+
+# Query: chs_Psoj2 Phytophthora sojae
+# Database: infestans
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+chs_Psoj2	NW_003303757.1	38.127	758	407	18	94	819	5712325	5714508	1.91e-150	494
+chs_Psoj2	NW_003303727.1	40.845	71	42	0	72	142	1816158	1815946	2.74e-06	54.3
+chs_Psoj2	NW_003303734.1	50.000	30	15	0	457	486	2007077	2007166	1.1	35.8
+chs_Psoj2	NW_003303756.1	34.375	64	40	1	795	858	1861602	1861417	6.9	33.1
+# TBLASTN 2.7.1+
+# Query: chs_Pram1 Phytophthora ramorum
+# Database: infestans
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+chs_Pram1	NW_003303757.1	92.634	896	66	0	18	913	5712031	5714718	0.0	1657
+chs_Pram1	NW_003303733.1	62.000	100	38	0	647	746	111358	111059	4.20e-26	119
+# TBLASTN 2.7.1+
+# Query: chs_Pram2 Phytophthora ramorum
+# Database: infestans
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+chs_Pram2	NW_003303757.1	43.564	505	250	10	115	603	5712253	5713710	7.14e-122	412
+chs_Pram2	NW_003303757.1	30.698	215	132	5	656	868	5713909	5714508	2.63e-20	100
+chs_Pram2	NW_003303727.1	39.437	71	43	0	121	191	1816158	1815946	4.45e-06	53.5
+chs_Pram2	NW_003303734.1	50.000	30	15	0	506	535	2007077	2007166	1.1	35.8
+# TBLASTN 2.7.1+
+# Query: chs_Pinf Phytophthora infestans
+# Database: infestans
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+chs_Pinf	NW_003303757.1	99.890	913	1	0	1	913	5711980	5714718	0.0	1789
+chs_Pinf	NW_003303733.1	96.774	62	2	0	647	708	111358	111173	4.32e-28	125
+chs_Pinf	NW_003303756.1	31.111	45	31	0	353	397	5282599	5282465	3.9	33.9
+chs_Pinf	NW_003303752.1	32.500	40	27	0	353	392	265352	265471	6.1	33.5
+# TBLASTN 2.7.1+
+# Query: chs_Spar1 Saprolegnia parasitica
+# Database: infestans
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+chs_Spar1	NW_003303757.1	51.383	759	334	8	103	828	5712256	5714526	0.0	795
+chs_Spar1	NW_003303733.1	48.052	77	39	1	620	695	111385	111155	1.79e-13	77.8
+chs_Spar1	NW_003303734.1	26.667	105	60	3	262	356	985866	986159	0.003	44.3
+# TBLASTN 2.7.1+
+# Query: chs_Spar2 Saprolegnia parasitica
+# Database: infestans
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+chs_Spar2	NW_003303757.1	40.026	762	393	15	162	892	5712325	5714511	8.05e-157	515
+chs_Spar2	NW_003303727.1	40.566	106	53	4	122	219	1816227	1815916	2.68e-08	60.8
+chs_Spar2	NW_003303736.1	48.148	27	12	1	225	249	79750	79670	5.9	28.1
+chs_Spar2	NW_003303736.1	36.842	19	12	0	267	285	79554	79498	5.9	22.7
+# TBLASTN 2.7.1+
+# Query: chs_Spar3 Saprolegnia parasitica
+# Database: infestans
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+chs_Spar3	NW_003303757.1	42.271	634	312	15	91	693	5712457	5714289	5.46e-140	461
+chs_Spar3	NW_003303733.1	27.358	106	51	4	549	643	111382	111110	1.1	35.8
+# TBLASTN 2.7.1+
+# Query: chs_Spar4 Saprolegnia parasitica
+# Database: infestans
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+chs_Spar4	NW_003303757.1	41.035	792	435	6	4	778	5712166	5714496	0.0	594
+chs_Spar4	NW_003303733.1	34.831	89	54	2	580	667	111376	111119	0.014	42.0
+# TBLASTN 2.7.1+
+# Query: chs_Spar5 Saprolegnia parasitica
+# Database: infestans
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+chs_Spar5	NW_003303757.1	40.297	809	437	9	28	815	5712232	5714583	0.0	580
+chs_Spar5	NW_003303733.1	41.558	77	28	2	587	655	111376	111173	5.29e-04	46.6
+chs_Spar5	NW_003303611.1	29.762	84	48	1	363	446	135854	136072	0.69	36.2
+# TBLASTN 2.7.1+
+# Query: chs_Spar6 Saprolegnia parasitica
+# Database: infestans
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+chs_Spar6	NW_003303757.1	44.572	783	391	7	161	933	5712256	5714505	0.0	672
+chs_Spar6	NW_003303733.1	29.412	85	42	2	713	796	111376	111173	0.002	44.7
+chs_Spar6	NW_003303727.1	24.615	65	49	0	164	228	1816152	1815958	0.037	40.8
+chs_Spar6	NW_003303748.1	30.769	65	36	1	473	537	2009437	2009270	4.8	33.9
+# BLAST processed 11 queries
